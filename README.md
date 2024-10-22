@@ -1,6 +1,7 @@
 🎓 Computer Science & Engineering student with a focus on Cybersecurity
 🔐 Interested in Cyber Defense, Network Security, and Digital Forensics
-🧑‍💻 Learning Linux, Python, and security frameworks like OWASP
+🧑‍💻 Learning Linux, Python, and HTML, CSS, JAVA SCRIPT 
+🎓 Student @ lovely professional university
 🌐 Exploring AI's role in automating cybersecurity tasks
 🛡️ Passionate about solving security challenges and staying ahead of threat
 
